@@ -1,2 +1,5 @@
 .DS_Store
 .vscode
+.ipynb_*
+/.ipynb_*
+/.DS_Store
